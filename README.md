@@ -4,6 +4,8 @@
 
 ## 效果预览
 
+![name](https://github.com/zhy6421867/vue-iqiyi-carousel/blob/master/carousel.gif)
+
 ## 用法
 
 要把对应的 `swipe.js` 文件拷贝到项目
