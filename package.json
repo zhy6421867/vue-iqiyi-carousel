@@ -1,0 +1,25 @@
+{
+  "name": "vue-iqiyi-carousel",
+  "version": "1.0.0",
+  "description": "vue iqiyi carousel swipe",
+  "main": "index.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhy6421867/vue-iqiyi-carousel.git"
+  },
+  "keywords": [
+    "vue",
+    "iqiyi",
+    "carousel",
+    "swipe"
+  ],
+  "author": "zhy6421867@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhy6421867/vue-iqiyi-carousel/issues"
+  },
+  "homepage": "https://github.com/zhy6421867/vue-iqiyi-carousel#readme"
+}
