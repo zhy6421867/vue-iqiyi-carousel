@@ -27,6 +27,8 @@
 </template>
 
 <script>
+import Swipe from './swipe'
+
 export default {
   name: 'IndexCarousel',
 
